@@ -1,0 +1,9 @@
+﻿  源.cpp
+E:\junior1\ComputerNet\SocketConnectServer\SocketConnectServer\源.cpp(24,20): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\junior1\ComputerNet\SocketConnectServer\SocketConnectServer\源.cpp(38,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\junior1\ComputerNet\SocketConnectServer\SocketConnectServer\源.cpp(43,14): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\junior1\ComputerNet\SocketConnectServer\SocketConnectServer\源.cpp(57,14): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\junior1\ComputerNet\SocketConnectServer\SocketConnectServer\源.cpp(99,20): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\junior1\ComputerNet\SocketConnectServer\SocketConnectServer\源.cpp(136,16): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\junior1\ComputerNet\SocketConnectServer\SocketConnectServer\源.cpp(157,18): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SocketConnectServer.vcxproj -> E:\junior1\ComputerNet\SocketConnectServer\Debug\SocketConnectServer.exe
